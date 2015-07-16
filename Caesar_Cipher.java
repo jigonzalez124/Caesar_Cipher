@@ -1,6 +1,6 @@
 /*	Name:  Jesus Ivan Gonzalez
 	Created: July 16th 2015
-	Description:  Asks user to convert a phrase via Ceasar Cipher, direction of the alphabet, and # of spaces to shift.
+	Description:  Asks user to convert a phrase via Ceasar Cipher, direction of the alphabet, and # of spaces to shift. */
 
 import java.util.Arrays;		//uses Arrays utility
 import java.util.Scanner;		//requires User input
